@@ -1,0 +1,31 @@
+/* text */
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Poppins:wght@400;700&display=swap');
+/* font-family: 'Acme', sans-serif; */
+/* font-family: 'Hind Siliguri', sans-serif; */
+/* font-family: 'Hind Siliguri', sans-serif; */
+
+
+
+.nav-item:hover{
+    background-color: rgba(20, 207, 198, 0.1);
+    border-radius: 15px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: rgb(221, 226, 224);
+}
+
+#projects {
+    background-color: rgb(221, 226, 224);
+}
+
+section {
+    padding-top: 8rem;
+}
+
+.produksi {
+    margin-top: -18px;
+    font-size: 10px;
+}
+
